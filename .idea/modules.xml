@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gamegpp.iml" filepath="$PROJECT_DIR$/.idea/modules/gamegpp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/gamegpp.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/gamegpp.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/gamegpp.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/gamegpp.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/gamegpp.core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/gamegpp.core.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lwjgl3/gamegpp.lwjgl3.iml" filepath="$PROJECT_DIR$/.idea/modules/lwjgl3/gamegpp.lwjgl3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lwjgl3/gamegpp.lwjgl3.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lwjgl3/gamegpp.lwjgl3.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lwjgl3/gamegpp.lwjgl3.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lwjgl3/gamegpp.lwjgl3.test.iml" />
+    </modules>
+  </component>
+</project>

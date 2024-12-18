@@ -1,0 +1,92 @@
+1.tsx
+2.tsx
+3.tsx
+4.tsx
+5.tsx
+6.tsx
+Arc.tsx
+House Inside.tsx
+House Outside.tsx
+PNG_Japan/PNG_Japan/Arc.png
+PNG_Japan/PNG_Japan/Background Trees.png
+PNG_Japan/PNG_Japan/Boy.gif
+PNG_Japan/PNG_Japan/Bushes.gif
+PNG_Japan/PNG_Japan/Cat_Bird.gif
+PNG_Japan/PNG_Japan/City.png
+PNG_Japan/PNG_Japan/Clouds.png
+PNG_Japan/PNG_Japan/Fishes.gif
+PNG_Japan/PNG_Japan/Frogs.gif
+PNG_Japan/PNG_Japan/Girl.gif
+PNG_Japan/PNG_Japan/House Inside.png
+PNG_Japan/PNG_Japan/House Outside.png
+PNG_Japan/PNG_Japan/Sakura Tree.gif
+PNG_Japan/PNG_Japan/Sky.png
+PNG_Japan/PNG_Japan/Tower.png
+PNG_Japan/PNG_Japan/Trading Cart.png
+PNG_Japan/PNG_Japan/Volcano Fuji.png
+PNG_Japan/PNG_Japan/Water.gif
+PNG_Japan/PNG_Japan/pixil-frame-0.png
+Sakura Tree.tsx
+Sky.tsx
+Tileset2.png
+Tower.tsx
+Trading Cart.tsx
+attack_1_colored_Sekiro.png
+ennemy.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 1/1.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 1/2.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 1/3.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 1/4.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 2/1.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 2/2.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 2/3.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 2/4.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 3/1.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 3/2.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 3/3.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 3/4.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 4/1.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 4/2.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 4/3.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 4/4.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 5/1.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 5/2.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 5/3.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 5/4.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 5/5.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 6/1.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 6/2.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 6/3.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 6/4.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 6/5.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 6/6.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 7/1.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 7/2.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 7/3.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 7/4.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 8/1.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 8/2.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 8/3.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 8/4.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 8/5.png
+free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 8/6.png
+free-sky-with-clouds-background-pixel-art-set/License.txt
+free-sky-with-clouds-background-pixel-art-set/Patreon.txt
+idle_animation1.png
+koalio-single.png
+koalio.png
+level1.tmx
+level2.tmx
+ok.tsx
+pixil-frame-0-8px.tsx
+pixil-frame-0.tsx
+run_colored_Sekiro.png
+tileSet.png
+ui/font-list.fnt
+ui/font-subtitle.fnt
+ui/font-window.fnt
+ui/font.fnt
+ui/uiskin.atlas
+ui/uiskin.json
+ui/uiskin.png
+yellowNinja - idle.png
